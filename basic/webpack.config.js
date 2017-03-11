@@ -1,7 +1,3 @@
-/************************************************\
- *           INTRO TO WEBPACK: SLIDE 1          *
-\************************************************/
-
 const path = require('path')
 
 // Webpack is a tool for bundling JavaScript projects. It centers

@@ -1,8 +1,12 @@
 {
-  "name": "webpack-demo",
+  "name": "webpack-5-minutes",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "css-loader": "^0.26.1",
     "file-loader": "^0.10.0",

@@ -1,7 +1,3 @@
-/************************************************\
- *           INTRO TO WEBPACK: SLIDE 5          *
-\************************************************/
-
 const path = require('path')
 const webpack = require('webpack')
 const HTMLPlugin = require('html-webpack-plugin')
